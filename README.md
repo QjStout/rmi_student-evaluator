@@ -8,5 +8,6 @@ To run the program: </br>
 2. for each executable, run the command 'java -jar the_filename.java'. </br>
 3. In the server-side application, click each of the start buttons before proceeding in the client-side window.</br>
 </br>
-!warning! - If the servers are not stopped prior to exiting the application, they will be retained in the JVM, causing unusual behaviour. </br>
+!warning! - If the servers are not stopped prior to exiting the application, they will be retained in the JVM,</br>
+causing unusual behaviour if the program is executed additional times. </br>
 Forcing the JVM to terminate will allow the program to be run again, with the expected behaviour.</br>
