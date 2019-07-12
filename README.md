@@ -1,6 +1,6 @@
 # rmi_student-evaluator
 
-This project demonstrates the use of Remote Procedure Call (RPC), in Java. </br>
+This project demonstrates the use of Remote Method Invocation (RMI), in Java. </br>
 Source code can be viewed in 'src/'. </br>
 </br>
 To run the program: </br>
