@@ -1,4 +1,4 @@
-# rpc_student-evaluator
+# rmi_student-evaluator
 
 This project demonstrates the use of Remote Procedure Call (RPC), in Java. </br>
 Source code can be viewed in 'src/'. </br>
